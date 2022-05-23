@@ -6,13 +6,13 @@ XEP-Pro wallet is a client of Electra Protocol blockchain built in C++ with [Qt]
 <div align="center">
   <br />
   <h3 align="center">Download now</h3>
-   <a href="https://github.com/ElectraProtocol/XEP-Pro-wallet/releases/download/client-1.0.0.0/XEP-Pro-wallet_mac_setup.dmg">
+   <a href="https://github.com/ElectraProtocol/XEP-Pro-wallet/releases/download/client-1.0.0.0/XEP-Pro-setup-mac.dmg">
     <img src="icons/apple.png" width="100" height="100">
   </a>
-  <a href="https://github.com/ElectraProtocol/XEP-Pro-wallet/releases/download/client-1.0.0.0/XEP-Pro-wallet_win_setup.exe">
+  <a href="https://github.com/ElectraProtocol/XEP-Pro-wallet/releases/download/client-1.0.0.0/XEP-Pro-setup-windows.exe">
     <img src="icons/windows.png" width="100" height="100">
   </a>
-  <a href="https://github.com/ElectraProtocol/XEP-Pro-wallet/releases/download/client-1.0.0.0/XEP-Pro-wallet_lin_setup.run">
+  <a href="https://github.com/ElectraProtocol/XEP-Pro-wallet/releases/download/client-1.0.0.0/XEP-Pro-setup-linux.run">
     <img src="icons/linux.png" width="100" height="100">
   </a>
   <br />
@@ -25,6 +25,15 @@ XEP-Pro wallet is a client of Electra Protocol blockchain built in C++ with [Qt]
     <img src="images/dark_theme.png" alt="dark" width="405" height="258">
   </a>
   <a href="https://raw.githubusercontent.com/ElectraProtocol/XEP-Pro-wallet/main/images/light_theme.png">
+    <img src="images/light_theme.png" alt="light" width="405" height="258">
+  </a>
+</div>
+<div align="center">
+  <br />
+  <a href="https://raw.githubusercontent.com/ElectraProtocol/XEP-Pro-wallet/main/images/light_overview.png">
+    <img src="images/dark_theme.png" alt="dark" width="405" height="258">
+  </a>
+  <a href="https://raw.githubusercontent.com/ElectraProtocol/XEP-Pro-wallet/main/images/payment_view_dark.png">
     <img src="images/light_theme.png" alt="light" width="405" height="258">
   </a>
 </div>
