@@ -17,5 +17,5 @@
 
 ### How to install this wallet?
 - If you are running the XEP-Qt wallet, exit it first.
-- Download the new wallet installer and run it: [Download](LINK)
-- You can have a look of the installation video: [Install XEP-Pro Wallet](LINK).
+- Download the new wallet installer and run it: [Download](https://github.com/ElectraProtocol/XEP-Pro-wallet#download-now)
+- You can have a look of the installation video: [Install XEP-Pro Wallet](https://youtu.be/nLjU2xcwvb4).
