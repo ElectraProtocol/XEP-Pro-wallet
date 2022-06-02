@@ -1,10 +1,13 @@
+### What is the difference between the Pro Wallet and the Qt Wallet?
+- The 2 wallets are running the same core code of the Electra blockchain. They are 2 interfaces of the blockchain.
+- XEP-Pro wallet bring a more user-friendly experience.
+
 ### Do i have to remove my old wallet?  Will QT wallet continue?
-- You do not have to remove your previous wallet.
-- XEP-Pro and XEP-Qt wallet are both an interface of the Electra Protocol blockchain.
+- You do not have to remove your previous wallet, both wallet coexist.
 - Users can use one or the other indifferently.
 - Both wallet can NOT run in same time in a same device, as they are sharing the same database and blockchain variables.
 
-###  Is this new password the same we used in our wallet?
+### Is this new password the same we used in our wallet?
 - The new application password is different than the password of your wallet (wallet.dat).
 - This password is to ensure the security of the communication between the UI interface and the core daemon.
 
