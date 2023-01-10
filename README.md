@@ -5,7 +5,7 @@ XEP-Pro wallet is a client of Electra Protocol blockchain built in C++ with [Qt]
 <!-- DOWNLOAD -->
 <div align="center">
   <br />
-  <h3 align="center">Download now</h3>
+  <h3 align="center">Download now - v2.0.0.1</h3>
   <a href="https://www.electraprotocol.com/wallets/#desktop">
     <img src="icons/apple.png" width="100" height="100">
   </a>
