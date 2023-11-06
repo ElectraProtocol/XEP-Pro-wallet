@@ -5,7 +5,7 @@
     "xepd": "daemon-1.0.4.0/xepdl",
     "omnixepd": "omnidaemon-1.0.0.0/omnixepdl",
     "updater": "updater-2.1.0/Pro-wallet-updater-lin",
-    "v_client": 2220,
+    "v_client": 2221,
     "v_xepd": 1040,
     "v_omnixepd": 100
   },
@@ -15,7 +15,7 @@
     "xepd": "daemon-1.0.4.0/xepdm",
     "omnixepd": "omnidaemon-1.0.0.0/omnixepdm",
     "updater": "updater-2.1.0/Pro-wallet-updater-mac",
-    "v_client": 2220,
+    "v_client": 2221,
     "v_xepd": 1040,
     "v_omnixepd": 100
   },
@@ -25,13 +25,13 @@
     "xepd": "daemon-1.0.4.0/xepd.exe",
     "omnixepd": "omnidaemon-1.0.0.0/omnixepd.exe",
     "updater": "updater-2.1.0/Pro-wallet-updater.exe",
-    "v_client": 2220,
+    "v_client": 2221,
     "v_xepd": 1040,
     "v_omnixepd": 100
   },
   "global": {
-      "newsid": 1,
-      "db_xep": 2,
-      "db_omni": 13
+    "newsid": 1,
+    "db_xep": 2,
+    "db_omni": 13
   }
 }
